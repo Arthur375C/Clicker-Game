@@ -23,4 +23,4 @@ Bem-vindo ao **Clicker Game**! Este é um jogo simples e divertido de clicar, on
 
 
 ## Autor
-- Desenvolvido por @ArthurMiguel
+- Desenvolvido por @Arthur375C
